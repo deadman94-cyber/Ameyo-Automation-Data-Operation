@@ -1,3 +1,3 @@
-username = 'redbus@admin'
-password = 'ameyo@!@#$'
+username = 'Ameyo_Admin'
+password = 'd9@@_%'
 
